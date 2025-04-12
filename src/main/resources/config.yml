@@ -1,1 +1,9 @@
+
+# Must only be between 0 and 1.
+
 charged-creeper-chance: 0.01
+
+# 0%    = 0
+# 1%    = 0.01
+# 50%   = 0.50
+# 100%  = 1
